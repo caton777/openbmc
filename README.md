@@ -44,11 +44,11 @@ Palmetto | ```meta-openbmc-machines/meta-openpower/meta-ibm/meta-palmetto/conf``
 Barreleye | ```meta-openbmc-machines/meta-openpower/meta-rackspace/meta-barreleye/conf```
 Zaius| ```meta-openbmc-machines/meta-openpower/meta-ingrasys/meta-zaius/conf```
 Witherspoon| ```meta-openbmc-machines/meta-openpower/meta-ibm/meta-witherspoon/conf```
-AST2500| ```meta-openbmc-machines/meta-evb/meta-evb-aspeed/meta-evb-ast2500/conf/``` 
+AST2500| ```meta-openbmc-machines/meta-evb/meta-evb-aspeed/meta-evb-ast2500/conf``` 
 
 As an example target AST2500-EVB
 ```
-export TEMPLATECONF=meta-openbmc-machines/meta-evb/meta-evb-aspeed/meta-evb-ast2500/conf```
+export TEMPLATECONF=meta-openbmc-machines/meta-evb/meta-evb-aspeed/meta-evb-ast2500/conf
 ```
 
 ### 3) Build ###
